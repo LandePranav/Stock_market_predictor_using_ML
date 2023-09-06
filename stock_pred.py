@@ -18,7 +18,7 @@ api_params = {
     'symbol': 'TSLA',
     'interval': '1day',
     'outputsize': 1000,
-    'apikey': '7ccc1b42c38a40df9077289ade099f23' # replace with your API key from 12data
+    'apikey': 'YOUR_KEY' # replace with your API key from 12data
 }
 
 # make the API request

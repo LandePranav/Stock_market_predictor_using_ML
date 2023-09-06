@@ -153,7 +153,7 @@ def update_output_div(n_clicks, value):
     'symbol': 'TSLA',
     'interval': '1day',
     'outputsize': 5000,
-    'apikey': '7ccc1b42c38a40df9077289ade099f23' # replace with your API key from 12data
+    'apikey': 'YOUR_KEY' # replace with your API key from 12data
     }
 
     if(value != ''):
